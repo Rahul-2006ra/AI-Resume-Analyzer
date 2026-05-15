@@ -1,4 +1,4 @@
-AI Resume Analyzer & Improver
+💥AI Resume Analyzer & Improver
 
 A modern, AI-powered web application that analyzes resumes, calculates ATS scores, detects missing keywords, compares resumes with job descriptions, and provides actionable improvement suggestions — all through a clean and intuitive UI.
 
