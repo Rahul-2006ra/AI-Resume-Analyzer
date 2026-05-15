@@ -3,10 +3,10 @@
 A modern, AI-powered web application that analyzes resumes, calculates ATS scores, detects missing keywords, compares resumes with job descriptions, and provides actionable improvement suggestions — all through a clean and intuitive UI.
 
 🔗 Live Demo:
-AI Resume Analyzer – Live Demo
+https://rahul-2006ra.github.io/AI-Resume-Analyzer/
 
 🔗 GitHub Repository:
-AI Resume Analyzer – GitHub Repo
+https://github.com/Rahul-2006ra/AI-Resume-Analyzer
 
 
 ---
